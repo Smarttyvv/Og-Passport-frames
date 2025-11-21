@@ -1,0 +1,1 @@
+export async function getScore(){ return {score: 100}; }
