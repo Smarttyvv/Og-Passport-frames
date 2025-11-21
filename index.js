@@ -1,1 +1,1 @@
-export default function handler(req,res){ res.json({mint:true}); }
+export default function handler(req,res){ res.json({payment:true}); }
