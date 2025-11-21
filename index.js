@@ -1,1 +1,1 @@
-export default function handler(req,res){ res.json({frame:true}); }
+export default function handler(req,res){ res.json({leaderboard:[]}); }
