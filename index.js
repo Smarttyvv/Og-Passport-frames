@@ -1,1 +1,1 @@
-export default function handler(req,res){ res.json({payment:true}); }
+export default function handler(req,res){ res.json({score:123}); }
